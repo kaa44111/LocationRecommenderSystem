@@ -1,4 +1,4 @@
-# Optimized Approach to Solve the Interest-Based Location Recommendation System Using FourSquare Data
+# Approach to Solve the Interest-Based Location Recommendation System Using FourSquare Data
 
 ## Task 1: Overview
 
